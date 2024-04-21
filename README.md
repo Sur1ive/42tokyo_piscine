@@ -1,7 +1,7 @@
 ![](./42.png)
 # 42 Tokyo piscine
 ## NOTICE 
-if code doesn’t respect 42 School norm, the grade will be 0:
+Project must be written in accordance with the Norm, otherwise the grade is 0:
 * Declarations must be at the beginning of a function
 * Declaration and an initialisation cannot be on the same line
 * Each function cannot have more than 25 lines of code
