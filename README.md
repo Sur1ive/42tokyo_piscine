@@ -41,5 +41,5 @@ Japanese: https://github.com/42School/norminette/blob/master/pdf/ja.norm.pdf
 ### team project
 | Project | Grade | 
 | ------- | ----- | 
-| rush00  | 10%   | 
-| rush01  | 42%   | 
+| rush00  |  10%  | 
+| rush01  |  42%  | 
